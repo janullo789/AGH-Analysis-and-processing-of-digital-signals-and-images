@@ -1,5 +1,5 @@
 
-# AGH-Analiza-i-przetwarzanie-sygnalow-i-obrazow-cyfrowych
+# AGH - Analysis and processing of digital signals and images
 
 #### Final project of course Analysis and processing of digital signals and images at AGH.
 
